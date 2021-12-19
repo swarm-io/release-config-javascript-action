@@ -19,7 +19,7 @@ module.exports = {
             "npmPublish": false
         }],
         ["@semantic-release/git", {
-            "assets": ["CHANGELOG.md", "README.md"],
+            "assets": ["CHANGELOG.md", "README.md", "package.json"],
             "message": "semantic-release-bot chore(release): ${nextRelease.version} \n\n${nextRelease.notes}"
         }],
         "@semantic-release/github"
