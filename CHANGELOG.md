@@ -1,3 +1,10 @@
+# 1.0.0 (2021-12-19)
+
+
+### Bug Fixes
+
+* Initial release ([f177c4f](https://github.com/swarm-io/release-config-javascript-actions/commit/f177c4f619a45d78f2bb569d3d7f375489c4aa2d))
+
 # 1.0.0 (2021-12-18)
 
 
